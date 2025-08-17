@@ -173,7 +173,7 @@
             right: -8px;
             background-color: var(--accent);
             color: white;
-            border-radius: 50%;
+            border-radius: 70%;
             width: 18px;
             height: 18px;
             display: flex;
@@ -408,13 +408,13 @@
         }
 
         .deal-img {
-            width: 50%;
+            width: 70%;
             height: 400px;
             object-fit: cover;
         }
 
         .deal-content {
-            width: 50%;
+            width: 70%;
             padding: 40px;
         }
 
@@ -513,7 +513,7 @@
         .user-avatar {
             width: 50px;
             height: 50px;
-            border-radius: 50%;
+            border-radius: 70%;
             object-fit: cover;
             margin-right: 15px;
         }
@@ -637,7 +637,7 @@
             width: 40px;
             height: 40px;
             background-color: rgba(255, 255, 255, 0.1);
-            border-radius: 50%;
+            border-radius: 70%;
             color: white;
             transition: all 0.3s;
         }
@@ -827,7 +827,7 @@
     <section class="hero">
         <div class="hero-content">
             <h1>praveen  Collection 2025</h1>
-            <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
+            <p>Discover the latest trends in fashion, technology and accessories with up to 70% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
